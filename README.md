@@ -56,6 +56,8 @@ The analysis focused on identifying aircraft risk by combining accident frequenc
 
 These visualizations are included in the notebook and the interactive dashboard, allowing stakeholders to filter by aircraft make, model, or country.
 
+[Here is thelink to Tableau dashboard:](https://public.tableau.com/app/profile/faith.koech/viz/AviationData_17619372859230/Dashboard1)
+
 ---
 
 ## Recommendations
